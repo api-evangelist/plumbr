@@ -1,0 +1,44 @@
+{
+    "name": "Plumbr",
+    "description": "<p>Plumbr is a Java performance monitoring solution that brings transparency into your JVM performance. It is the only solution that automatically detects the root causes of Java performance issues by interpreting application performance data.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/plumbr-logo.png",
+    "tags": [
+        "have api",
+        "performance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/plumbr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Plumbr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/plumbr-logo.png",
+            "humanURL": "https:\/\/plumbr.eu\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/plumbr-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/plumbr.eu\/blog"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/JavaPlumbr"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/plumbr.eu\/"
+        }
+    ]
+}
